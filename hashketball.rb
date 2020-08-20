@@ -15,18 +15,19 @@ def game_hash
 :assists =>12,
 :steals =>3,
 :blocks =>1,
-:slam_dunks =>1
-      },
-      "Reggie Evans" =>
-      {
-    :number =>30,
+:slam_dunks =>1,
+  },
+  "Reggie Evans" =>
+  {
+:number =>30,
 :shoe =>14,
 :points =>12,
 :rebounds =>12,
 :assists =>12,
 :steals =>12,
 :blocks =>12,
-:slam_dunks =>7, },
+:slam_dunks =>7,
+},
 "Brook Lopez"=>
 {
   :number =>11,
@@ -58,7 +59,7 @@ def game_hash
 :assists =>2,
 :steals =>4,
 :blocks =>11,
-:slam_dunks =>1 
+:slam_dunks =>1, 
   } 
  } 
 },
