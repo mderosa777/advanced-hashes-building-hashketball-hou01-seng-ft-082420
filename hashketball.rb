@@ -14,7 +14,7 @@ def game_hash
 :steals =>3,
 :blocks =>1,
 :slam_dunks =>1}
- },
+ },binding.pry 
  team_name:"string",
    colors:=>["string",]
    players:=> {:player_name =>"Alan Anderson",
@@ -42,4 +42,4 @@ def game_hash
  }
      
   
-  end                                                                                                                                                                                                         # Write your code here!
+  end                                                        binding.pry                                                                                                                                                 # Write your code here!
