@@ -1,6 +1,6 @@
 require 'pry'
 def game_hash
-  teams =
+  
   {
  :home =>
  {
@@ -128,9 +128,9 @@ def game_hash
     }
    } 
   
-   
+end   
 end
-
+game_hash[:home]
  
     
    
