@@ -1,5 +1,5 @@
-def game_hash(home,away)
-  top hash 
+def game_hash
+  
   {
  "home"=>{
    team_name:"string",
