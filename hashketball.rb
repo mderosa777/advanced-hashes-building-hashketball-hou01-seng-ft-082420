@@ -69,10 +69,10 @@ def game_hash
   :team_name =>"Charlotte Hornets",
   :colors =>["Turquoise","Purple"],
    :players_name =>
-   "Jeff Adrien",
-    
-      
-      :number =>4,
+}
+     "Jeff Adrien"=>
+   {
+:number =>4,
 :shoe => 18,
 :points =>10,
 :rebounds =>1,
@@ -124,7 +124,7 @@ def game_hash
 :steals =>7,
 :blocks =>5,
 :slam_dunks =>12,
-      }]
+      }
     }
    } 
   
