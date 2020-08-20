@@ -111,6 +111,7 @@ def game_hash
 :slam_dunks =>0, 
     },
     "Kemba Walker"=>
+    {
     :number =>33,
 :shoe =>15,
 :points =>6,
