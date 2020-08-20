@@ -75,9 +75,8 @@ def game_hash
 :steals =>2,
 :blocks =>7,
 :slam_dunks =>2, 
-},
-"Bismack Biyombo"=>
-{
+},{
+:players_name =>"Bismack Biyombo",
   :number =>0,
 :shoe =>16,
 :points =>12,
@@ -86,10 +85,9 @@ def game_hash
 :steals =>22,
 :blocks =>15,
 :slam_dunks =>10, 
-  },
-  "DeSagna Diop"=>
-  {
-  :number =>2,
+  },{
+:players_name =>"DeSagna Diop",
+:number =>2,
 :shoe =>14,
 :points =>24,
 :rebounds =>12,
@@ -97,9 +95,8 @@ def game_hash
 :steals =>4,
 :blocks =>5,
 :slam_dunks =>5, 
-},
-"Ben Gordan"=>
-{
+},{
+:players_name =>"Ben Gordan",
 :number =>8,
 :shoe =>15,
 :points =>33,
@@ -108,9 +105,8 @@ def game_hash
 :steals =>1,
 :blocks =>1,
 :slam_dunks =>0, 
-  },
-  "Kemba Walker"=>
-  {
+  },{
+  :players_name =>"Kemba Walker",
 :number =>33,
 :shoe =>15,
 :points =>6,
