@@ -3,8 +3,8 @@ def game_hash
   
  "home"=>{
    team_name:"string",
-   colors:"string",
-   players:=> [:player_name =>,
+   colors:=>["string",]
+   players:=> {:player_name =>"",
 :number,
 :shoe,
 :points,
@@ -12,7 +12,7 @@ def game_hash
 :assists,
 :steals,
 :blocks,
-:slam_dunks]
+:slam_dunks}
  },
  "away"=>{
    team_name:"string",
