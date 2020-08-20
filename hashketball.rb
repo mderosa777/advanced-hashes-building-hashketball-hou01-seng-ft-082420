@@ -125,9 +125,9 @@ def game_hash
     }
    } 
   }
-   home["Alan Anderson"][:number]
+   
 end
-
+home["Alan Anderson"][:number]
  
     
    
