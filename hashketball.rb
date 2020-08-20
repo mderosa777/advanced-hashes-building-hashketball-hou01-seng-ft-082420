@@ -70,7 +70,7 @@ def game_hash
   :players =>{
     "Jeff Adrien"=>
     {
-      binding.pry
+      
       :number =>4,
 :shoe => 18,
 :points =>10,
