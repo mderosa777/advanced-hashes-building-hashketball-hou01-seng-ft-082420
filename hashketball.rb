@@ -19,6 +19,16 @@ def game_hash
  },
  
  }
+ :away=>
+ {
+   :team_name=>"Charlottle Hornets",
+   :colors=>["Turquoise","Purple"],
+   :players=>{
+     "Jeff Adrien"=>
+     {
+       
+     }
+ }
   }
      
   
