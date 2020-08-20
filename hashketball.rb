@@ -19,6 +19,7 @@ def game_hash
  },
  
  }
-     binding.pry 
+     
+     
   
   end                                                                                                                                                                                                   # Write your code here!
