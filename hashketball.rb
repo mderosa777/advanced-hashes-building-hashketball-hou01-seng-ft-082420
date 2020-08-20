@@ -63,7 +63,8 @@ def game_hash
   } 
  } 
 },
-:away=>{
+:away=>
+{
   :team_name=>"Charlotte Hornets",
   :colors=>["Turquosi","Purple"],
   :players=>{
@@ -91,14 +92,14 @@ def game_hash
   },
   "DeSagna Diop"=>
   {
-  :number =>30,
+  :number =>2,
 :shoe =>14,
-:points =>12,
+:points =>24,
 :rebounds =>12,
 :assists =>12,
-:steals =>12,
-:blocks =>12,
-:slam_dunks =>7, 
+:steals =>4,
+:blocks =>5,
+:slam_dunks =>5, 
 },
 "Ben Gordan"=>
 {
