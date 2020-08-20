@@ -11,4 +11,6 @@ def game_hash(home,away)
    colors:"string",
    players:1,
  
- }}                                                                                                                                                                                                            # Write your code here!
+ }
+    
+  }                                                                                                                                                                                                            # Write your code here!
