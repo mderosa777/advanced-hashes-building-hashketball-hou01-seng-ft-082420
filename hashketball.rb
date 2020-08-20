@@ -127,7 +127,7 @@ def game_hash
   }
    
 end
-home["Alan Anderson"][:number]
+game_hash["Alan Anderson"][:number]
  
     
    
