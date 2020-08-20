@@ -79,7 +79,7 @@ def game_hash
     }
   }
 }
- 
+  }
  
  
     
