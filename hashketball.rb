@@ -70,7 +70,7 @@ def game_hash
   :colors =>["Turquoise","Purple"],
   :players =>[
    :players_name =>
-   {"Jeff Adrien",
+   "Jeff Adrien",
     
       
       :number =>4,
