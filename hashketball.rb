@@ -1,5 +1,6 @@
 def game_hash(home,away)
-  top hash={
+  top hash 
+  {
  "home"=>{
    team_name:"string",
    colors:"string",
