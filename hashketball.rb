@@ -1,7 +1,6 @@
 require 'pry'
 def game_hash
   
-  {
  "home"=>{
    team_name:"string",
    colors:"string",
@@ -30,5 +29,5 @@ def game_hash
  
  }
      
-  }
+  
   end                                                                                                                                                                                                         # Write your code here!
