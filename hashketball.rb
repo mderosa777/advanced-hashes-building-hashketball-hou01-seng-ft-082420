@@ -58,7 +58,9 @@ def game_hash
 :assists =>2,
 :steals =>4,
 :blocks =>11,
-:slam_dunks =>1  
+:slam_dunks =>1 
+  } 
+ } 
 },
 :away=>{
   :team_name=>"Charlotte Hornets",
