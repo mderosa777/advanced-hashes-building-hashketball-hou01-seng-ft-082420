@@ -1,5 +1,6 @@
 require 'pry'
 def game_hash
+  teams =
   {
  :home=>
  {
